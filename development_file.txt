@@ -1,2 +1,0 @@
-Test file created on development branch.
-This file is on master now. 
